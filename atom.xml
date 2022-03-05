@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ozlevone.github.io</id>
     <title>OZLevone</title>
-    <updated>2022-03-05T06:38:38.463Z</updated>
+    <updated>2022-03-05T13:52:04.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ozlevone.github.io"/>
     <link rel="self" href="https://ozlevone.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://ozlevone.github.io/images/avatar.png</logo>
     <icon>https://ozlevone.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, OZLevone</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello My New Blog]]></title>
+        <id>https://ozlevone.github.io/post/hello-my-new-blog/</id>
+        <link href="https://ozlevone.github.io/post/hello-my-new-blog/">
+        </link>
+        <updated>2022-03-05T13:48:35.000Z</updated>
+        <content type="html"><![CDATA[<p>前些日子学生机到期没有进行续费，导致挂机<br>
+现在由于资金短缺，改投GitHub上纯静态<br>
+这样白嫖可还行！<br>
+最近会更新新内容<br>
+敬请期待！<br>
+重新复出！<br>
+全新新生！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://ozlevone.github.io/post/hello-gridea/</id>
